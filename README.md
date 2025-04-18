@@ -1,6 +1,6 @@
 # Soil dynamics
 
-Interactive python scripts supplementing the course _soil dynamics_ at TU Bergakademie Freiberg.
+Interactive python scripts supplementing the course _soil dynamics_ at TU Bergakademie Freiberg
 [![DOI](https://zenodo.org/badge/353040762.svg)](https://doi.org/10.5281/zenodo.15240314)
 
 See also nagelt.github.io
